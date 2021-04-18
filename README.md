@@ -6,4 +6,3 @@ The loader for mods under Quilt. It provides mod loading facilities and useful a
 ## License
 
 Licensed under the Apache License 2.0.
-fabric
